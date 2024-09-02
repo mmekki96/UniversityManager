@@ -21,6 +21,6 @@
 This project is open-source and available under the MIT License.
 
 ## Instalation
-1. **Clone the repository.**
+1. Clone the repository.
 2. Build the project using your preferred C++ IDE or tool like **`make`**
 3. Run the executable to launch the application
